@@ -1,13 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "chacha
+    ",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "Vasteganahuiyyan.aternos.me",
+    "port": 59139,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -31,7 +32,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
+        "vastegana huiyyan",
         "Subscribe to SoloPlayz!",
         "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
       ]
